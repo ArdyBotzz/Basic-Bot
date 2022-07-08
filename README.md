@@ -127,7 +127,6 @@ Jika sudah kembali ke terminal anda lalu ketik satu per satu dan jalankan kode d
 ```js
 $ cd basic
 $ yarn //Jika menggunakan yarn 
-$ npm install //Jika menggunakan Npm
 $ node .
 ```
 
