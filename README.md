@@ -2,7 +2,7 @@
 whatsapp web response code or logarithm 
 
 # Informasi
-Ini adalah basic kode/ kode dasar dari logaritma sebuah responsif whatsapp web, kami memiliki ketergantungan kepada beberapa modulz contohnya baileys dan lain"
+Ini adalah basic kode/ kode dasar dari logaritma sebuah responsif whatsapp web, kami memiliki ketergantungan kepada beberapa modulz contohnya baileys terimakasih kepada [@baileys](https://github.com/adiwajshing/Baileys/) dan lain"
 
 # Instalasi
  Langkah awal kalian perlu membuat folder kosong contoh lain saya membuat folder dengan nama ``` basic ``` silahkan ketik command di bawah
