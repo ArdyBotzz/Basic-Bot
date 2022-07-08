@@ -6,7 +6,6 @@ import {
 import * as fs from 'fs'
 import module from 'module'
 import moment from 'moment-timezone'
-import messageUp from './message.js'
 
 let sessionDb = ["./session.json"]
 
@@ -66,7 +65,6 @@ async function connectToWhatsApp(session) {
     })
 
     sock.ev.on('messages.upsert', async (message) => {
-      await messageUp(message, sock, store)
     })
     
     
