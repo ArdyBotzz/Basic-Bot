@@ -2,9 +2,10 @@
 whatsapp web response code or logarithm 
 
 # Informasi
-Ini adalah basic kode/ kode dasar dari logaritma sebuah responsif whatsapp web, kami memiliki ketergantungan kepada beberapa modulz contohnya baileys terimakasih kepada [@baileys](https://github.com/adiwajshing/Baileys/) dan lain"
+Ini adalah basic kode/ kode dasar dari logaritma sebuah responsif whatsapp web, kami memiliki ketergantungan kepada beberapa modulz contohnya baileys dan lain"
 
 # Instalasi
+
  Langkah awal kalian perlu membuat folder kosong contoh lain saya membuat folder dengan nama ``` basic ``` silahkan ketik command di bawah
 ```bash
 $ mkdir basic && cd basic
@@ -124,17 +125,30 @@ Jika sudah tempelkan kode di bawah ini
 
 Jika sudah kembali ke terminal anda lalu ketik satu per satu dan jalankan kode di bawah
 
-```js
+## Option Package Installer
+# Yarn
+```bash
 $ cd basic
-$ yarn //Jika menggunakan yarn 
+$ yarn
 $ node .
 ```
+<p>Jika Anda Menggunakan Yarn</p>
+
+# Npm
+```bash
+$ cd basic
+$ npm install
+$ node .
+```
+<p>Jika Anda Menggunakan Npm Package Installer</p>
 
 Jika sudah anda telah memasuki fase terakhir yaitu scan barcode
 Anda bisa menyiapkan 2 perangkat lalu scan
 
 Apabila code 
-``` opened connection ```
+```bash
+opened connection
+```
 
 Maka selesai 
 
