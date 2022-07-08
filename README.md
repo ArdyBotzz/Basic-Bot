@@ -124,7 +124,7 @@ Jika sudah tempelkan kode di bawah ini
 
 Jika sudah kembali ke terminal anda lalu ketik satu per satu dan jalankan kode di bawah
 
-```bash
+```json
 $ cd basic
 $ yarn //Jika menggunakan yarn 
 $ npm install //Jika menggunakan Npm
