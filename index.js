@@ -65,6 +65,7 @@ async function connectToWhatsApp(session) {
     })
 
     sock.ev.on('messages.upsert', async (message) => {
+      await messageUp(message, sock, store)
     })
     
     
