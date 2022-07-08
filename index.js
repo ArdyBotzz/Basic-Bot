@@ -6,6 +6,7 @@ import {
 import * as fs from 'fs'
 import module from 'module'
 import moment from 'moment-timezone'
+import messageUp from './message.js'
 
 let sessionDb = ["./session.json"]
 
