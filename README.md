@@ -99,7 +99,7 @@ Kode di atas adalah suatu pemanggil atau lebih tepatnya kode dasar untuk login a
 Apabila sudah, lanjut ke langka selanjutnya adalah buat file dengan nama ``` paclage.json ```
 
 ```bash 
-mkdir package.json
+$ mkdir package.json
 ```
 
 Jika sudah tempelkan kode di bawah ini
@@ -121,3 +121,23 @@ Jika sudah tempelkan kode di bawah ini
   }
 }
 ```
+
+Jika sudah kembali ke terminal anda lalu ketik satu per satu dan jalankan kode di bawah
+
+```bash
+$ cd basic
+$ yarn //Jika menggunakan yarn 
+$ npm install //Jika menggunakan Npm
+$ node .
+```
+
+Jika sudah anda telah memasuki fase terakhir yaitu scan barcode
+Anda bisa menyiapkan 2 perangkat lalu scan
+
+Apabila code 
+``` opened connection ```
+
+Maka selesai 
+
+# Catatan
+Anda bisa lihat informasi lebih lanjut di github kami
