@@ -107,7 +107,7 @@ Jika sudah tempelkan kode di bawah ini
 ```json
 {
     "scripts": {
-        "start": "node index.js" // ini tergantung pada nama panggilan file utama anda
+        "start": "node index.js"
     },
     "name": "Basic-Bot",
     "description": "whatsapp web response code or logarithm",
@@ -121,6 +121,8 @@ Jika sudah tempelkan kode di bawah ini
   }
 }
 ```
+
+Anda Boleh Mengganti "node index.js" menjadi "node namajs.js"
 
 Jika sudah kembali ke terminal anda lalu ketik satu per satu dan jalankan kode di bawah
 
