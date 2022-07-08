@@ -104,7 +104,7 @@ mkdir package.json
 
 Jika sudah tempelkan kode di bawah ini
 
-```js
+```json
 {
     "scripts": {
         "start": "node index.js" // ini tergantung pada nama panggilan file utama anda
